@@ -1,4 +1,2 @@
-Hello World from GitHub.
+Hello World from GitHub. This is a line of txt from the main branch.
 
-
-This text is from firstfeature branch.
